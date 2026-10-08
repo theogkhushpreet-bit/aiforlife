@@ -1,0 +1,5 @@
+[
+  {"name":"Agriculture Support Reference","category":"agriculture","description":"Reference entry for agriculture-related government support. Verify current eligibility and application rules on the official portal.","tags":["farmer","agriculture","support"],"url":"https://www.india.gov.in/"},
+  {"name":"Education Support Reference","category":"education","description":"Reference entry for education and scholarship discovery. Verify the current scheme rules before applying.","tags":["students","scholarship","education"],"url":"https://www.india.gov.in/"},
+  {"name":"Skill Development Reference","category":"skills","description":"Reference entry for skills and employment opportunities. Verify current programmes and eligibility.","tags":["skills","employment","training"],"url":"https://www.india.gov.in/"}
+]
